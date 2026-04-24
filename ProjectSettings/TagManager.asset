@@ -11,7 +11,10 @@ TagManager:
   - PlayerTail
   - Background
   - BackgrondGameplay
+<<<<<<< HEAD
   - UI
+=======
+>>>>>>> 94ff20754e8b64103346ca067141e0b12a77506c
   layers:
   - Default
   - TransparentFX
@@ -55,6 +58,7 @@ TagManager:
   - name: Food
     uniqueID: 3485909249
     locked: 0
+<<<<<<< HEAD
   - name: Tail
     uniqueID: 3398316955
     locked: 0
@@ -63,4 +67,9 @@ TagManager:
     locked: 0
   - name: UI
     uniqueID: 1278983935
+  - name: Player
+    uniqueID: 574488581
+    locked: 0
+  - name: Tail
+    uniqueID: 3398316955
     locked: 0

@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Tail
+  - Player1
+  - Food
+  - PlayerHead
+  - PlayerTail
+  - Background
+  - BackgrondGameplay
+  - UI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Tail
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackgroundGameplay
+    uniqueID: 2103396047
+    locked: 0
+  - name: Food
+    uniqueID: 3485909249
+    locked: 0
+  - name: Tail
+    uniqueID: 3398316955
+    locked: 0
+  - name: Player
+    uniqueID: 574488581
+    locked: 0
+  - name: UI
+    uniqueID: 1278983935
+    locked: 0
